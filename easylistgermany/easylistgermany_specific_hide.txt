@@ -297,6 +297,12 @@ dnv-online.net###dnvsuperbanner
 dogforum.de###dogforum_footer
 dogforum.de###dogforum_header
 wallstreet-online.de###dout1
+trennungsschmerzen.de##.billboard-top
+trennungsschmerzen.de##.incontent-wrapper-bb
+trennungsschmerzen.de##.incontent-wrapper-bb2
+trennungsschmerzen.de##.incontent-wrapper-bb3
+trennungsschmerzen.de##.mr-wrapper-big
+trennungsschmerzen.de##.mr-wrapper-small
 drehscheibe-online.de###dsBanner
 dastelefonbuch.de###dtm_multiboxcontainer
 gelbeseiten.de###dtm_super
